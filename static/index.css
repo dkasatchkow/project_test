@@ -3,13 +3,13 @@
 
 }
 
-.nav{
+#nav{
     position: absolute;
     inset: auto;
     border-radius:50%;
 }
 
-.title{
+#title{
     position: relative;
 
     background-color: navy;
