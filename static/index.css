@@ -1,0 +1,17 @@
+.body {
+    background-color: bisque;
+
+}
+
+.nav{
+    position: absolute;
+    inset: auto;
+    border-radius:50%;
+}
+
+.title{
+    position: relative;
+
+    background-color: navy;
+    color: whitesmoke;
+}
