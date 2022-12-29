@@ -21,3 +21,11 @@
     background-color: grey;
     height: 2px;
 }
+.text_body{
+    padding-top: 5px;
+    text-align: left;
+}
+.text_body>p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:midnightblue;
+}
