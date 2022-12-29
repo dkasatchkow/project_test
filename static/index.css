@@ -3,23 +3,14 @@
 
 }
 
-#nav{
-    position: absolute;
-    inset: auto;
-    border-radius:50%;
-    background-color: green;
-}
-
-#title{
+.title{
     position: relative;
-
-    background-color: navy;
     color: whitesmoke;
 }
 
 .nav{
     position: absolute;
-    inset: auto;
-    border-radius:50%;
-    background-color: red;
+    margin-left: auto;
+    border-radius:20% 10%;
+    background-color: navy;
 }
